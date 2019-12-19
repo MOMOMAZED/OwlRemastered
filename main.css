@@ -1,0 +1,370 @@
+.header1 {
+    position: relative;
+   
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen-Sans","Ubuntu","Cantarell","Helvetica Neue",sans-serif;
+    font-size: 55px;
+    top: 150px;
+    z-index: 1;
+    font-weight: 700;
+    line-height: 1.2;
+    color: whitesmoke;
+    text-decoration: none;
+    
+
+    
+}
+.header2 {
+   position: relative;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 35px;
+   top: 480px;
+   color: black;
+   border: 1px solid black;
+   padding: 10px;
+   margin: 40px;
+   padding: 10px;
+  
+   
+   
+
+    
+}
+
+.headerhow {
+ 
+   
+   
+
+    
+}
+.topline { 
+   display: block;
+   margin-top: 0.5em;
+   margin-bottom: 0.5em;
+   margin-left: auto;
+   margin-right: auto;
+   border-style: inset;
+   border-width: 0.1px;
+   margin: 50px;
+ } 
+
+ .topline2 { 
+   display: block;
+   margin-top: 10px;
+   margin-bottom: 0.5em;
+   margin-left: auto;
+   margin-right: auto;
+   border-style: inset;
+   border-width: 1px;
+   margin: 400px;
+ } 
+
+ .topline3 { 
+    color: rgb(224, 236, 255);
+   display: block;
+   margin-top: 10px;
+   margin-bottom: 0.5em;
+   margin-left: auto;
+   margin-right: auto;
+   border-style: inset;
+   border-width: 0.1px;
+   margin: 400px;
+ } 
+
+
+.Update
+{
+   position: relative;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 35px;
+   top: 350px;
+   color: black;
+   border: 1px solid black;
+   padding: 10px;
+   margin: 100px;
+   padding: 10px;
+
+
+}
+.UpdateP
+{
+   position: relative;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 35px;
+   top: 550px;
+   color: black;
+   border: 1px solid black;
+   padding: 10px;
+   margin: 100px;
+   padding: 10px;
+
+
+}
+.spotlight
+{
+   position: relative;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 35px;
+   top: -50px;
+   color: black;
+   border: 1px solid black;
+   padding: 10px;
+   margin: 100px;
+   padding: 10px;
+   font-weight:bold;
+
+
+}
+
+.spotlightvid
+{
+  
+   position: relative;
+}
+
+.foot{
+   top:800px;
+}
+
+.new {
+   
+  
+   position: relative;
+    
+   animation-name: example;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;  
+ }
+
+ @keyframes example {
+   0%   {color: red; left:1000px; top:240px;}
+   25%  {color: whitesmoke; left:1000px; top:240px;}
+   50%  {color: red; left:1000px; top:240px;}
+   75%  {color: white; left:1000px; top:240px;}
+   100% {color: red; left:1000px; top:240px;}
+ }
+
+.navi-bar a {
+   font-family: 'Times New Roman', Times, serif;
+   position: relative;
+   float: left;
+   color: black;
+   text-align: center;
+   padding: 20px 16px;
+   text-decoration: none;
+   font-size: 20px;
+
+ }
+ .webcc {
+   font-family: 'Times New Roman', Times, serif;
+   position: absolute;
+   float: left;
+   color: black;
+   text-align: center;
+   padding: 20px 16px;
+   text-decoration: none;
+   font-size: 40px;
+
+ }
+
+
+ .navi-bar a:hover {
+   background-color: skyblue;
+   color: black;
+ }
+ 
+ .navi-bar a.active {
+   background-color: darkcyan;
+   color: white;
+ }
+
+
+
+a:link
+{
+   color: grey;
+   text-decoration: none;
+}
+a:visited
+{
+   color: grey;
+   text-decoration: none;
+}
+a:hover
+{
+   color: white;
+   text-decoration: none;
+}
+a:active
+{
+   color: white;
+   text-decoration: none;
+}
+
+.current-update
+{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    top: 300px;
+    font-weight: 700;
+    z-index: 1;
+    line-height: 1.2;
+    color: whitesmoke;
+    
+    
+}
+
+.home-content
+{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    top:400px;
+    z-index: 1;
+    line-height: 1.2;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: black;
+    
+    
+}
+
+.play-content
+{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    top:500px;
+    z-index: 0;
+    line-height: 1.2;
+    text-align: center;
+    color: black;
+    
+    
+}
+
+.effect-content
+{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    top:500px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: black;
+    
+    
+}
+
+
+.forge-content
+{
+   position: relative;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+   top:500px;
+   z-index: 1;
+  
+   line-height: 1.8;
+   margin-left: 200px;
+   margin-right: 200px;
+   color: black;
+   
+    
+}
+body {
+   background-color: rgb(242, 242, 242);
+}
+.update-content
+{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    top:400px;
+    z-index: 1;
+    font-weight:bold;
+    line-height: 2.2;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: black;
+    
+    
+}
+.donation-content
+{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    top:450px;
+    z-index: 1;
+    font-weight:bold;
+    line-height: 2.2;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: black;
+    
+    
+}
+
+
+
+
+
+.topbox
+{
+    width: 99%;
+    top: 0px;
+    z-index: -1;
+    background-image: url("logo.png");
+   
+    
+    position: absolute;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.toppe
+{
+
+}
+
+
+a.nav-link:link
+{
+   color: #fb3f00;
+   text-decoration: none;
+}
+a.nav-link:visited
+{
+   color: #fb3f00;
+   text-decoration: none;
+}
+
+a.nav-link:active
+{
+   color: #fb3f00;
+   text-decoration: none;
+}
+#nav {
+   font: 12px/30px Helvetica, sans-serif;
+   text-align: center;
+  }
+   
+  #nav a {
+     
+   
+   color: #fff;
+   width: 20px;
+   height: 20px;
+   float: right;
+   text-decoration: none;
+   
+  }
+   
+
+   
+  /*Image*/
+ 

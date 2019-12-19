@@ -1,0 +1,9 @@
+  <tr>
+    <td><img src="" alt="" border=3 height=100 width=100></img></td>   
+    <td>Boshy Gun (A1-07)</td> 
+    <td>335-445(6)</td>	
+    <td>25%</td> 
+    <td>N/A</td> 
+    <td>RAMPAGE LIFEREPLENISH KNOCKBACK</td>  
+    <td>Doom(0.01%), DoomMinions(0.001%)</td> 
+  </tr>

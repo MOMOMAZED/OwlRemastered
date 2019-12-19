@@ -1,0 +1,9 @@
+  <tr>
+    <td><img src="" alt="" border=3 height=100 width=100></img></td>   
+    <td>Boshy Gun (A1-07)</td>  (THE NAME OF THE ITEM)
+    <td>335-445(6)</td>  (THE DAMAGE)	
+    <td>25%</td> (FAME BONUS)
+    <td>N/A</td> (ITEM STAT BOOST)
+    <td>RAMPAGE LIFEREPLENISH KNOCKBACK</td>  (SPECIAL EFFECT)
+    <td>Doom(0.01%), DoomMinions(0.001%)</td> 
+  </tr>

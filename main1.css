@@ -1,0 +1,76 @@
+.navi-bar1 a:hover {
+
+
+
+
+    background-color: skyblue;
+    color: grey;
+  }
+  
+  .navi-bar1 a.active {
+    background-color: darkcyan;
+    color: white;
+  }
+ 
+ 
+ 
+ a:link
+ {
+    color: grey;
+    text-decoration: none;
+ }
+ a:visited
+ {
+    color: grey;
+    text-decoration: none;
+ }
+ a:hover
+ {
+    color: white;
+    text-decoration: none;
+ }
+ a:active
+ {
+    color: white;
+    text-decoration: none;
+ }
+
+ .navi-bar1 a {
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    float: right;
+    color: grey;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 20px;
+ 
+  }
+
+  .bigtext
+  {
+      font-size: 40px;
+  }
+
+
+  .navi-bar1 a{
+
+     
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;  
+  }
+ 
+  @keyframes example {
+    0%   {color: black; left:0px; top:240px;}
+    25%  {color: whitesmoke; left:0px; top:240px;}
+    50%  {color: black; left:0px; top:240px;}
+    75%  {color: white; left:000px; top:240px;}
+    100% {color: black; left:000px; top:240px;}
+  }
+
+
+  body {
+    background-color: rgb(224, 236, 255);
+}
+

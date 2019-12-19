@@ -1,0 +1,11 @@
+<li>Doomed Hero Badge Price: 100000. Require Shattered Amulet, Rare Ore, Raw Power and Trapper Soul</li>
+<li>Doomed Wings of Natural Bloodlust Price: 25000. Require Wings of Natural Bloodlust, Wings of Natural Bloodlust, Raw Power, Rare Ore, and Doomed Soul</li>
+<li>Doomed Angel's Hope Price: 25000. Require Angel's Hope, Angel's Hope, Raw Power, Rare Ore and Doomed Soul</li>
+<li>Doomed Raw Hope Price: 25000. Require Raw Hope, Raw Power, Rare Ore and Doomed Soul</li>
+<li>Doomed Uber Doom Bow Price: 25000. Require Uber Doom Bow, Uber Doom Bow, Raw Power, Rare Ore and Doomed Soul</li>
+<li>Doomed Sword of Ghostly Power Price: 25000. Require Sword of Ghostly Power, Sword of Ghostly Power, Raw Power, Rare Ore and Doomed Soul</li>
+<li>Doomed Soul tipped dirk Price: 25000. Require Soul tipped dirk, soul tipped dirk, Raw Power, Rare Ore and Doomed Soul</li>
+<li>Doomed Soul Mask Price: 25000. Require Soul Mask, Soul Mask, Raw Power, Rare Ore and Doomed Soul</li>
+<li>Doomed Seal of the Fallen Angel Price: 25000. Require Seal of the Fallen Angel, Seal of the Fallen Angel, Raw Power, Rare Ore and Doomed Soul</li>
+<li>Doomed Soul Price: 25000. Require Player Crown, Player Crown, Player Crown, Player Crown, Player Crown, Player Crown, Player Crown and Player Crown</li>
+
